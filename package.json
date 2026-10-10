@@ -1,0 +1,13 @@
+{
+  "name": "slop-sentry-deploy",
+  "version": "2.1.2",
+  "description": "The Grand Master's SLOP-SENTRY Ecosystem Deployment Package",
+  "main": "index.js",
+  "bin": {
+    "slop-sentry": "./index.js"
+  },
+  "dependencies": {},
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
